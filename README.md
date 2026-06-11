@@ -16,13 +16,12 @@
 
 ## 🎯 About Me
 
-I'm a **B.Tech Graduate** passionate about **Software Engineering** and **Backend Development**. I love solving complex problems through code and building efficient, scalable applications. Currently focused on mastering backend technologies and exploring AI-powered applications.
-
-- 🎓 **B.Tech Graduate** in Software Engineering
-- 🚀 **Focus Areas**: Backend Development, Software Architecture, System Design
-- 💡 **Interests**: Building scalable applications, automation, AI/ML integration
-- 📚 **Learning Philosophy**: Hands-on projects, data structures, and clean code practices
-- 🤝 **Looking for**: Internship opportunities and collaborative projects
+- 🔭 **Currently**: Final-year ECE undergrad from **KNIT Sultanpur**
+- 👯‍♂️ **Contributing**: Full-stack development projects
+- 🤝 **Seeking**: Full-time job opportunities
+- 🌱 **Learning**: GenAI and AgenticAI
+- 💭 **Ask me about**: My projects and tech stack
+- 🛠️ **Tech Philosophy**: Love exploring new technologies and fully compatible to work with any tool
 
 ---
 
@@ -32,9 +31,9 @@ I'm a **B.Tech Graduate** passionate about **Software Engineering** and **Backen
 
 | Technology | Status | Purpose |
 |-----------|--------|---------|
-| **Python** | 🔥 Active | Core language for backend & automation |
-| **Data Structures & Algorithms** | 🔥 Active | Problem-solving & optimization |
-| **Vue.js** | 📖 In Progress | Frontend fundamentals |
+| **GenAI** | 🔥 Active | Generative AI applications |
+| **AgenticAI** | 🔥 Active | AI-powered agents & automation |
+| **Full-Stack Development** | 🔥 Active | End-to-end application development |
 
 </div>
 
@@ -116,11 +115,11 @@ I'm a **B.Tech Graduate** passionate about **Software Engineering** and **Backen
 
 ## 🎯 Goals for 2026
 
-- ✅ Master **Python** and **Data Structures & Algorithms**
-- 🎯 Build 5+ full-fledged backend projects
-- 📚 Learn **FastAPI** and **PostgreSQL**
-- 🤖 Explore **AI-Powered Applications**
-- 💼 Secure a strong internship in Backend Development
+- ✅ Master **Full-Stack Development**
+- 🎯 Build AI-powered applications using GenAI and AgenticAI
+- 📚 Secure a full-time position in software development
+- 🤖 Explore advanced AI/ML applications
+- 💼 Contribute to impactful projects
 - 🏆 Contribute to open-source projects
 - 📈 Achieve 1000+ GitHub contributions
 
@@ -154,10 +153,10 @@ Let's collaborate! Reach out if you want to discuss tech, work on projects toget
 ## 💬 Let's Work Together!
 
 I'm actively looking for:
-- 💼 **Internship Opportunities** in Backend Development
+- 💼 **Full-Time Job Opportunities** in Software Development
 - 🤝 **Open Source Contributions** where I can add value
 - 👥 **Collaborative Projects** with like-minded developers
-- 📚 **Mentorship** in Software Engineering and System Design
+- 📚 **Mentorship** in Full-Stack Development and AI Applications
 
 Feel free to reach out on **GitHub** or **LinkedIn**. Let's build something amazing together! 🚀
 
