@@ -4,9 +4,9 @@
 
 ### Hi, I'm **Harsh Patel** 👨‍💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%94%A7;Problem+Solver+💡;Passionate+Learner+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+with+Python+%F0%9F%90%8D;Learning+Vue.js+%F0%9F%9F%A2;Exploring+Backend+Development+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-**Building elegant solutions through code | Learning Backend Development | Open to Collaborations**
+**Writing clean code | Solving problems | Open to opportunities**
 
 [GitHub](https://github.com/IchigoAni-19) • [LinkedIn](https://www.linkedin.com/in/harsh-patel-bb5598268/) • [Portfolio](#)
 
@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-- 🔭 **Currently**: Final-year ECE undergrad from **KNIT Sultanpur**
+- 🔭 **Currently**: Final-year B.Tech Electronics Engineering student from **KNIT Sultanpur**
 - 👯‍♂️ **Contributing**: Full-stack development projects
 - 🤝 **Seeking**: Full-time job opportunities
 - 🌱 **Learning**: GenAI and AgenticAI
@@ -31,9 +31,9 @@
 
 | Technology | Status | Purpose |
 |-----------|--------|---------|
-| **GenAI** | 🔥 Active | Generative AI applications |
-| **AgenticAI** | 🔥 Active | AI-powered agents & automation |
-| **Full-Stack Development** | 🔥 Active | End-to-end application development |
+| **Python** | 🔥 Active | Core language for scripting & automation |
+| **Vue.js** | 🔥 Active | Modern frontend development |
+| **GenAI & AgenticAI** | 📖 In Progress | AI-powered applications |
 
 </div>
 
@@ -63,39 +63,31 @@
 
 ## 🚀 Featured Projects
 
-### 1. 🐚 Custom Shell Interpreter
-**CodeCrafters Challenge**
-- ✨ Built with **Python**
-- 🎯 Supports command execution with proper argument parsing
-- 📋 Implements built-in shell commands (cd, pwd, echo, etc.)
-- 🔍 Smart PATH resolution and executable lookup
+### 1. 🐍 python-projects
+**Collection of Python automation scripts, CLI tools, and learning projects.**
+- ✨ Practical automation utilities
+- 🎯 Data processing and scripting
+- 📚 Learning resources and examples
 - 📂 [View Repository](#)
-
-*A deep dive into how shell interpreters work under the hood.*
 
 ---
 
-### 2. 💰 Command-Line Personal Finance & Habit Tracker
-**Python CLI Application**
+### 2. 💰 finance-tracker
+**CLI-based personal finance and habit tracking application built with Python.**
 - 📊 Track expenses with categorization
 - 🎯 Monitor and build productive habits
 - 💾 Data persistence with file storage
 - 📈 Generate expense and habit reports
 - 📂 [View Repository](#)
 
-*Practical application combining financial tracking and behavioral science.*
-
 ---
 
-### 3. 🐍 Python Learning Projects Collection
-**Personal Knowledge Repository**
-- 📚 Curated collection of Python scripts
-- 🎯 Topics: OOP, File I/O, Algorithms, Web Scraping
-- 📖 Well-documented with explanations
-- 💡 Reference guide for common patterns
+### 3. 🐚 codecrafters-shell
+**Custom Unix shell implementation built in Python as part of the CodeCrafters challenge.**
+- ✨ Full command execution support
+- 🎯 Built-in shell commands (cd, pwd, echo, etc.)
+- 🔍 Smart PATH resolution
 - 📂 [View Repository](#)
-
-*A growing collection showcasing Python fundamentals and best practices.*
 
 ---
 
@@ -115,13 +107,13 @@
 
 ## 🎯 Goals for 2026
 
-- ✅ Master **Full-Stack Development**
-- 🎯 Build AI-powered applications using GenAI and AgenticAI
-- 📚 Secure a full-time position in software development
-- 🤖 Explore advanced AI/ML applications
-- 💼 Contribute to impactful projects
+- ✅ Master **Python** and **Data Structures & Algorithms**
+- 🎯 Build multiple full-fledged projects
+- 📚 Learn **FastAPI** and **PostgreSQL**
+- 🤖 Explore **GenAI and AgenticAI** applications
+- 💼 Secure a full-time position in software development
 - 🏆 Contribute to open-source projects
-- 📈 Achieve 1000+ GitHub contributions
+- 📈 Achieve consistent GitHub contributions
 
 ---
 
@@ -156,7 +148,7 @@ I'm actively looking for:
 - 💼 **Full-Time Job Opportunities** in Software Development
 - 🤝 **Open Source Contributions** where I can add value
 - 👥 **Collaborative Projects** with like-minded developers
-- 📚 **Mentorship** in Full-Stack Development and AI Applications
+- 📚 **Mentorship** in Software Engineering and Full-Stack Development
 
 Feel free to reach out on **GitHub** or **LinkedIn**. Let's build something amazing together! 🚀
 
