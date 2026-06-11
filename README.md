@@ -8,7 +8,7 @@
 
 **Building elegant solutions through code | Learning Backend Development | Open to Collaborations**
 
-[GitHub](https://github.com/IchigoAni-19) • [LinkedIn](https://www.linkedin.com/in/harsh-patel-profile) • [Portfolio](#)
+[GitHub](https://github.com/IchigoAni-19) • [LinkedIn](https://www.linkedin.com/in/harsh-patel-bb5598268/) • [Portfolio](#)
 
 </div>
 
@@ -133,7 +133,7 @@ I'm a **B.Tech Graduate** passionate about **Software Engineering** and **Backen
 Let's collaborate! Reach out if you want to discuss tech, work on projects together, or just have a chat about code.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IchigoAni-19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-patel-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-patel-bb5598268/)
 
 **Email**: [Connect via LinkedIn](#)
 
