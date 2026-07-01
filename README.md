@@ -145,8 +145,6 @@ Let's collaborate! Reach out if you want to discuss tech, work on projects toget
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IchigoAni-19)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-patel-bb5598268/)
 
-**Email**: [Email](patelharsh12@zohomail.in)
-
 </div>
 
 ---
