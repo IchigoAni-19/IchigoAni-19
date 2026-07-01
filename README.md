@@ -1,14 +1,15 @@
+```markdown
 # 👋 Welcome to My GitHub Profile!
 
 <div align="center">
 
 ### Hi, I'm **Harsh Patel** 👨‍💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+with+Python+%F0%9F%90%8D;Learning+Vue.js+%F0%9F%9F%A2;Exploring+Backend+Development+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Full+Stack+AI+Web+Developer;Building+AI+Web+Apps;Solving+Real-World+Problems+with+Code)](https://git.io/typing-svg)
 
 **Writing clean code | Solving problems | Open to opportunities**
 
-[GitHub](https://github.com/IchigoAni-19) • [LinkedIn](https://www.linkedin.com/in/harsh-patel-bb5598268/) • [Portfolio](#)
+[GitHub](https://github.com/IchigoAni-19) • [LinkedIn](https://www.linkedin.com/in/harsh-patel-bb5598268/)
 
 </div>
 
@@ -17,11 +18,11 @@
 ## 🎯 About Me
 
 - 🔭 **Currently**: Final-year B.Tech Electronics Engineering student from **KNIT Sultanpur**
-- 👯‍♂️ **Contributing**: Full-stack development projects
+- 👯‍♂️ **Contributing**: Full-stack and AI-powered development projects
 - 🤝 **Seeking**: Full-time job opportunities
-- 🌱 **Learning**: GenAI and AgenticAI
+- 🌱 **Learning**: **Azure Cloud** and **Generative AI**
 - 💭 **Ask me about**: My projects and tech stack
-- 🛠️ **Tech Philosophy**: Love exploring new technologies and fully compatible to work with any tool
+- 🛠️ **Tech Philosophy**: Love exploring new technologies and building scalable, user-focused solutions
 
 ---
 
@@ -31,9 +32,8 @@
 
 | Technology | Status | Purpose |
 |-----------|--------|---------|
-| **Python** | 🔥 Active | Core language for scripting & automation |
-| **Vue.js** | 🔥 Active | Modern frontend development |
-| **GenAI & AgenticAI** | 📖 In Progress | AI-powered applications |
+| **Azure** | 🔥 Active | Cloud deployment, services, and integration |
+| **GenAI** | 📖 In Progress | AI-powered applications and intelligent workflows |
 
 </div>
 
@@ -47,9 +47,26 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Frameworks & Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### Cloud, API & Dev Tools
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-1F2937?style=for-the-badge&logo=bruno&logoColor=white)
 
 ### Development & Version Control
 
@@ -63,30 +80,38 @@
 
 ## 🚀 Featured Projects
 
-### 1. 🐍 python-projects
-**Collection of Python automation scripts, CLI tools, and learning projects.**
-- ✨ Practical automation utilities
-- 🎯 Data processing and scripting
-- 📚 Learning resources and examples
-- 📂 [View Repository](#)
+### 1. 🤖 Resume-match-ai
+**AI-powered resume matching and analysis platform for smarter candidate-job alignment.**
+- ✨ Resume relevance scoring and matching workflows
+- 🎯 Frontend built with modern web stack
+- 📊 Practical AI integration for hiring use-cases
+- 📂 [View Repository](https://github.com/IchigoAni-19/Resume-match-ai)
 
 ---
 
-### 2. 💰 finance-tracker
-**CLI-based personal finance and habit tracking application built with Python.**
-- 📊 Track expenses with categorization
-- 🎯 Monitor and build productive habits
-- 💾 Data persistence with file storage
-- 📈 Generate expense and habit reports
-- 📂 [View Repository](#)
+### 2. 🧵 threadforge
+**Modern full-stack project focused on scalable thread/content workflows and clean UI architecture.**
+- ⚡ TypeScript-first implementation
+- 🎨 Responsive frontend with reusable components
+- 🧱 Strong focus on maintainable architecture
+- 📂 [View Repository](https://github.com/IchigoAni-19/threadforge)
 
 ---
 
-### 3. 🐚 codecrafters-shell
-**Custom Unix shell implementation built in Python as part of the CodeCrafters challenge.**
-- ✨ Full command execution support
+### 3. 🐚 codecrafters-shell-python
+**Custom Unix shell implementation in Python from the CodeCrafters challenge.**
+- ✨ Command execution and shell behavior
 - 🎯 Built-in shell commands (cd, pwd, echo, etc.)
-- 🔍 Smart PATH resolution
+- 🔍 PATH resolution and process handling
+- 📂 [View Repository](https://github.com/IchigoAni-19/codecrafters-shell-python)
+
+---
+
+### 4. 📋 Task Score Master
+**Task and productivity tracking project focused on measurable progress and scoring.**
+- ✅ Task scoring and progress visibility
+- 📈 Productivity-oriented workflow design
+- 🧩 Structured for practical day-to-day usage
 - 📂 [View Repository](#)
 
 ---
@@ -95,9 +120,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IchigoAni-19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IchigoAni-19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IchigoAni-19&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IchigoAni-19&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IchigoAni-19&theme=tokyonight&hide_border=true)
 
@@ -107,13 +132,12 @@
 
 ## 🎯 Goals for 2026
 
-- ✅ Master **Python** and **Data Structures & Algorithms**
-- 🎯 Build multiple full-fledged projects
-- 📚 Learn **FastAPI** and **PostgreSQL**
-- 🤖 Explore **GenAI and AgenticAI** applications
-- 💼 Secure a full-time position in software development
-- 🏆 Contribute to open-source projects
-- 📈 Achieve consistent GitHub contributions
+- ✅ Build and deploy production-ready projects with **Python**, **TypeScript**, and **Cloud-native workflows**
+- ☁️ Gain hands-on expertise in **Azure services**, deployment, and monitoring
+- 🤖 Ship end-to-end **GenAI-powered applications** with real-world use cases
+- 🧠 Strengthen backend/system design through advanced engineering challenges
+- 💼 Secure a full-time software development role with strong product impact
+- 🏆 Contribute consistently to open-source and collaborative engineering projects
 
 ---
 
@@ -126,7 +150,7 @@ Let's collaborate! Reach out if you want to discuss tech, work on projects toget
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IchigoAni-19)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-patel-bb5598268/)
 
-**Email**: [Connect via LinkedIn](#)
+**Email**: [Connect via LinkedIn](https://www.linkedin.com/in/harsh-patel-bb5598268/)
 
 </div>
 
@@ -136,7 +160,7 @@ Let's collaborate! Reach out if you want to discuss tech, work on projects toget
 
 <div align="center">
 
-![Snake animation](https://github.com/IchigoAni-19/IchigoAni-19/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/IchigoAni-19/IchigoAni-19/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -148,7 +172,7 @@ I'm actively looking for:
 - 💼 **Full-Time Job Opportunities** in Software Development
 - 🤝 **Open Source Contributions** where I can add value
 - 👥 **Collaborative Projects** with like-minded developers
-- 📚 **Mentorship** in Software Engineering and Full-Stack Development
+- 📚 **Mentorship** in Software Engineering, Cloud, and AI Development
 
 Feel free to reach out on **GitHub** or **LinkedIn**. Let's build something amazing together! 🚀
 
@@ -158,6 +182,7 @@ Feel free to reach out on **GitHub** or **LinkedIn**. Let's build something amaz
 
 ### ⭐ If you find my work interesting, feel free to star my repositories!
 
-**Last Updated**: June 2026 | Made with ❤️ by Harsh Patel
+**Last Updated**: July 1, 2026 | Made with ❤️ by Harsh Patel
 
 </div>
+```
