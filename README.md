@@ -1,4 +1,3 @@
-```markdown
 # 👋 Welcome to My GitHub Profile!
 
 <div align="center">
@@ -185,4 +184,3 @@ Feel free to reach out on **GitHub** or **LinkedIn**. Let's build something amaz
 **Last Updated**: July 1, 2026 | Made with ❤️ by Harsh Patel
 
 </div>
-```
