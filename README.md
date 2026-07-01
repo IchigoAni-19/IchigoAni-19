@@ -119,10 +119,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IchigoAni-19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IchigoAni-19&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IchigoAni-19&theme=tokyonight&hide_border=true)
 
 </div>
@@ -150,16 +146,6 @@ Let's collaborate! Reach out if you want to discuss tech, work on projects toget
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-patel-bb5598268/)
 
 **Email**: [Connect via LinkedIn](https://www.linkedin.com/in/harsh-patel-bb5598268/)
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/IchigoAni-19/IchigoAni-19/output/github-contribution-grid-snake.svg)
 
 </div>
 
