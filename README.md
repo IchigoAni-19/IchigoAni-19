@@ -8,7 +8,7 @@
 
 **Writing clean code | Solving problems | Open to opportunities**
 
-[GitHub](https://github.com/IchigoAni-19) • [LinkedIn](https://www.linkedin.com/in/harsh-patel-bb5598268/)
+[GitHub](https://github.com/IchigoAni-19) • [LinkedIn](https://www.linkedin.com/in/harsh-patel-bb5598268/) • [Portfolio](https://radiant-brigadeiros-e4275a.netlify.app/)
 
 </div>
 
